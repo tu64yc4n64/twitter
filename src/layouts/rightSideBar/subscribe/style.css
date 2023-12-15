@@ -1,0 +1,21 @@
+.layouts-rightsidebar-subscribe {
+    padding: 11px 15px;
+    width: 100%;
+    background-color: #f7f9f9;
+    border-radius: 16px;
+    height: 137px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.layouts-rightsidebar-subscribe h2 {
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 700;
+}
+.layouts-rightsidebar-subscribe p {
+    line-height: 19px;
+    font-size: 15px;
+    font-weight: 600;
+}

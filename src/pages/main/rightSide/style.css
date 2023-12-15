@@ -1,0 +1,32 @@
+.mainlayout-rigtside {
+    padding-left: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.mainlayout-rigtside h2 {
+    font-size: 64px;
+    margin: 48px 0;
+    line-height: 84px;
+    font-weight: 700;
+
+}
+.mainlayout-rigtside > h4 {
+    font-size: 31px;
+    line-height: 36px;
+    margin-bottom: 32px;
+    font-weight: 700;
+}
+.mainlayout-line {
+   flex-direction: row;
+    width: 300px;
+}
+.mainlayout-line span {
+    border-top: 1px solid #eff3f4;
+    
+
+}
+.create-account-button button {
+    height: 100%;
+    width: 100%;
+}

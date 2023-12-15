@@ -1,0 +1,45 @@
+.layouts-rightsidebar-search {
+    background-color: rgba(239,243,244,1.00);
+   
+    width: 350px;
+  
+        border-bottom-left-radius: 9999px;
+    border-bottom-right-radius: 9999px;
+    border-top-left-radius: 9999px;
+    border-top-right-radius: 9999px;
+        border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    display: flex;
+    align-items: center;
+}
+.layouts-rightsidebar-search svg {
+    padding-left: 11px;
+    height: 1.25em;
+    width: 41px;
+    font-size: 14px;
+ 
+}
+.layouts-rightsidebar-search svg path {
+fill: rgba(83,100,113,1.00);
+}
+
+.layouts-rightsidebar-search input {
+    padding: 11px;
+      background-color: rgba(239,243,244,1.00);
+      font-size: 14px;
+         line-height: 16px;
+}
+.layouts-rightsidebar-search input:focus-visible {
+
+    outline: none;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}

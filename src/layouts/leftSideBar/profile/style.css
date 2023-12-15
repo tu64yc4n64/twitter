@@ -1,0 +1,41 @@
+.layouts-leftsidebar-profile-menu {
+    padding: 11px 0;
+        border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(101,119,134,0.2), 0 0 3px 1px rgba(101,119,134,0.15);
+    width: 300px;
+    left: -20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.layouts-leftsidebar-profile-menu > div {
+    display: flex;
+    flex-direction: column;
+}
+.layouts-leftsidebar-profile-menu a {
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 11px 15px;
+}
+.layouts-leftsidebar-profile-menu a:hover  {
+background-color: #f7f9f9
+}
+.layouts-leftsidebar-profile-menu > svg {
+    position: absolute;
+    bottom: -10px;
+    width: 24px;
+    height: 1.25em;
+    left: calc(138px);
+    transform: rotate(180deg);
+    color: #fff;
+    font-size: 12px;
+    filter: drop-shadow(rgb(207, 217, 222) 1px -1px 1px);
+}
+.layouts-leftsidebar-profile-menu > svg path {
+    fill: #fff;
+}

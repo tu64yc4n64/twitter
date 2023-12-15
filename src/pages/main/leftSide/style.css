@@ -1,0 +1,13 @@
+.mainlayout-leftside{
+    min-width: 55vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.mainlayout-leftside svg {
+  
+    padding: 32px;
+    width: 100%;
+    max-height: 380px;
+}

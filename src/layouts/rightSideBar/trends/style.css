@@ -1,0 +1,10 @@
+.layouts-rightsidebar-trends {
+    padding: 15px;
+    background-color: #f7f9f9;
+    border-radius: 16px;
+}
+.layouts-rightsidebar-trends h2 {
+     font-size: 20px;
+    line-height: 23px;
+    font-weight: 700;
+}
